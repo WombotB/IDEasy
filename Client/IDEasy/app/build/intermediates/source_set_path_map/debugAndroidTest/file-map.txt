@@ -1,9 +1,0 @@
-com.example.ideasy.test.app-core-1.5.0-0 C:\Users\Wombot\.gradle\caches\transforms-3\43d92f142369654f00961f6a107028dc\transformed\core-1.5.0\res
-com.example.ideasy.test.app-annotation-experimental-1.3.0-1 C:\Users\Wombot\.gradle\caches\transforms-3\887740e9ca47b4f507c7b2ac441e7e60\transformed\annotation-experimental-1.3.0\res
-com.example.ideasy.test.app-androidTest-2 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\build\generated\res\resValues\androidTest\debug
-com.example.ideasy.test.app-androidTest-3 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\build\generated\res\rs\androidTest\debug
-com.example.ideasy.test.app-mergeDebugAndroidTestResources-4 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.ideasy.test.app-mergeDebugAndroidTestResources-5 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.ideasy.test.app-merged_res-6 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\build\intermediates\merged_res\debugAndroidTest
-com.example.ideasy.test.app-androidTest-7 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\src\androidTest\res
-com.example.ideasy.test.app-androidTestDebug-8 C:\Users\Wombot\AndroidStudioProjects\IDEasy\app\src\androidTestDebug\res
