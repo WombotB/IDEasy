@@ -23,7 +23,6 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
-    TextView codeF;
     item item = new item();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         Button buttonsave = (Button)findViewById(R.id.button2);
         Button buttonupload = (Button)findViewById(R.id.button3);
         EditText text = (EditText) findViewById(R.id.editTextText2);
+        TextView codeF = (TextView) findViewById(R.id.codeF);
 //        text.setText(getCode());
 
         buttonsave.setOnClickListener(new View.OnClickListener(){
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         // создаем singleton объект клиента
         OkHttpClient client = new OkHttpClient();
-        HttpUrl.Builder urlBuilder = HttpUrl.parse("http://192.168.1.35:8080").newBuilder();
+        HttpUrl.Builder urlBuilder = HttpUrl.parse("http://10.0.2.2:8080").newBuilder();
         urlBuilder.addQueryParameter("codeSTR", code);
         String url = urlBuilder.build().toString();
 
